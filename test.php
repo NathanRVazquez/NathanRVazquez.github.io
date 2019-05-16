@@ -1,7 +1,7 @@
 <DOCTYPE!html>
 <html>
 <head>
-  <title>
+  <title>Lab 0
   </title>
   <head>
     <body>
